@@ -1,5 +1,6 @@
-# Hi there, I'm Tahir 👋  
-Frontend Developer | JavaScript Enthusiast
+## Frontend Developer | JavaScript Enthusiast
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=35&duration=5003&pause=1000&color=D10202&width=435&lines=Tahir+Zayd)](https://git.io/typing-svg)
 
 ### 🛠️ Languages & Tools
 <table align="center">
