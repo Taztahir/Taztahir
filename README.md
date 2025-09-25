@@ -60,4 +60,4 @@
 </table>
 
 ### 📊 GitHub Stats
-![Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)
+![Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taztahir&show_icons=true&theme=radical)
