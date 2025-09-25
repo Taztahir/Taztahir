@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi there, I'm Tahir 👋  
+Frontend Developer | JavaScript Enthusiast
 
-<!--
-**Taztahir/Taztahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Languages & Tools
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="80" height="80" alt="HTML5"/>
+      <br><b>HTML5</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="80" height="80" alt="CSS3"/>
+      <br><b>CSS3</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" height="80" alt="JavaScript"/>
+      <br><b>JavaScript</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="80" height="80" alt="Bootstrap"/>
+      <br><b>Bootstrap</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" height="80" alt="React"/>
+      <br><b>React</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" height="80" alt="React Native"/>
+      <br><b>React Native</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="80" height="80" alt="TailwindCSS"/>
+      <br><b>TailwindCSS</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="80" height="80" alt="WordPress"/>
+      <br><b>WordPress</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="80" height="80" alt="Git"/>
+      <br><b>Git</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="80" height="80" alt="GitHub"/>
+      <br><b>GitHub</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="80" height="80" alt="Vercel"/>
+      <br><b>Vercel</b>
+    </td>
+    <td align="center" width="140">
+      <!-- Empty cell for spacing or future skill -->
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)
