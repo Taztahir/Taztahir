@@ -1,63 +1,92 @@
-## Full stack Developer | JavaScript Enthusiast
+# Tahir Zayd
+### Software Engineer | Systems Thinker | Full Stack Architect
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=35&duration=5003&pause=1000&color=D10202&width=435&lines=Tahir+Zayd)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=0A66C2&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;Designing+Robust+Backends;Engineering+High-Performance+Applications" />
+</p>
 
-### 🛠️ Languages & Tools
-<table align="center">
-  <tr>
-    <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="80" height="80" alt="HTML5"/>
-      <br><b>HTML5</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="80" height="80" alt="CSS3"/>
-      <br><b>CSS3</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" height="80" alt="JavaScript"/>
-      <br><b>JavaScript</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="80" height="80" alt="Bootstrap"/>
-      <br><b>Bootstrap</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" height="80" alt="React"/>
-      <br><b>React</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" height="80" alt="React Native"/>
-      <br><b>React Native</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="80" height="80" alt="TailwindCSS"/>
-      <br><b>TailwindCSS</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="80" height="80" alt="WordPress"/>
-      <br><b>WordPress</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="80" height="80" alt="Git"/>
-      <br><b>Git</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="80" height="80" alt="GitHub"/>
-      <br><b>GitHub</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="80" height="80" alt="Vercel"/>
-      <br><b>Vercel</b>
-    </td>
-    <td align="center" width="140">
-      <!-- Empty cell for spacing or future skill -->
-    </td>
-  </tr>
-</table>
+---
 
-### 📊 GitHub Stats
-![Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taztahir&show_icons=true&theme=radical)
+## 🧠 Engineering Philosophy
+
+I build systems that are **scalable, maintainable, and production-ready**.
+
+With a strong foundation in JavaScript ecosystems and modern web architecture, I focus on:
+- Designing resilient backend systems  
+- Crafting performant frontend experiences  
+- Writing clean, testable, and extensible code  
+- Solving real-world problems with pragmatic engineering  
+
+> “Good code works. Great code scales.”
+
+---
+
+## ⚙️ Core Expertise
+
+**Languages & Frameworks**
+- JavaScript (ES6+), TypeScript  
+- React, React Native  
+- Node.js (API design, REST, scalable services)  
+
+**Frontend Engineering**
+- Responsive UI architecture  
+- State management & performance optimization  
+- Component-driven development  
+
+**Backend & Systems**
+- API architecture & integration  
+- Authentication systems & data flow design  
+- Scalable backend patterns  
+
+**Tools & Infrastructure**
+- Git, GitHub (version control & collaboration)  
+- Vercel (deployment & edge delivery)  
+- WordPress (custom integrations & CMS solutions)  
+
+---
+
+## 🏗️ What I Build
+
+- Full-stack web applications  
+- Scalable backend systems  
+- AI-integrated platforms  
+- Real-time and API-driven products  
+- Developer-focused tools and automation systems  
+
+---
+
+## 📊 Engineering Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Taztahir&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taztahir&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🔍 Current Focus
+
+- Building **AI-powered applications**  
+- Developing **automated trading systems (Forex & Crypto)**  
+- Exploring **scalable system design & backend architecture**  
+
+---
+
+## 🤝 Collaboration & Opportunities
+
+Open to:
+- High-impact engineering roles  
+- Startup collaborations  
+- Complex system design challenges  
+
+---
+
+## 📫 Contact
+
+- Email: taztaz162004@gmail.com  
+
+---
+
+## ⚡ Signature
+
+> I don’t just write code — I design systems that last.
